@@ -8,7 +8,7 @@ import ru.ifmo.se.pokemon.Type;
 public class DoubleTeam extends StatusMove {
 
     public DoubleTeam(){
-        super(Type.NORMAL, 0, 1D);
+        super(Type.NORMAL, 0, 100);
     }
 
     @Override

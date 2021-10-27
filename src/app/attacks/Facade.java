@@ -6,7 +6,7 @@ import ru.ifmo.se.pokemon.Type;
 public class Facade extends PhysicalMove {
 
     public Facade(){
-        super(Type.NORMAL, .7, 1D);
+        super(Type.NORMAL, .7, 100);
     }
 
     @Override

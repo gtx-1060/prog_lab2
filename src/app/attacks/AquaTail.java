@@ -6,7 +6,7 @@ import ru.ifmo.se.pokemon.Type;
 public class AquaTail extends PhysicalMove {
 
     public AquaTail(){
-        super(Type.WATER, 90.0, .9);
+        super(Type.WATER, 90.0, 90);
 
     }
 

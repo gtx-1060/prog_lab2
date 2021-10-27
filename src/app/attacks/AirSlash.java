@@ -8,7 +8,7 @@ import ru.ifmo.se.pokemon.Type;
 public class AirSlash extends StatusMove {
 
     public AirSlash(){
-        super(Type.FLYING, 75, .95);
+        super(Type.FLYING, 75, 95);
     }
 
     @Override

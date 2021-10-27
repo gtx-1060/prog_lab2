@@ -8,7 +8,7 @@ import ru.ifmo.se.pokemon.Type;
 public class Swagger extends StatusMove {
 
     public Swagger(){
-        super(Type.NORMAL, 0D, .85);
+        super(Type.NORMAL, 0D, 85);
     }
 
     @Override

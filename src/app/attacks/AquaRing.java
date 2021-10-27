@@ -5,7 +5,7 @@ import ru.ifmo.se.pokemon.*;
 public class AquaRing extends StatusMove {
 
     public AquaRing(){
-        super(Type.WATER, 0D, 1D);
+        super(Type.WATER, 0D, 100);
     }
 
     @Override

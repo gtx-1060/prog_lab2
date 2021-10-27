@@ -8,7 +8,7 @@ import ru.ifmo.se.pokemon.Type;
 public class Confide extends StatusMove {
 
     public Confide(){
-        super(Type.NORMAL, 0D, 1D);
+        super(Type.NORMAL, 0D, 100);
     }
 
     @Override
